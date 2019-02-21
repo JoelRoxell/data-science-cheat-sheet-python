@@ -56,3 +56,7 @@ def plot(clf):
 
 plot(svc)
 
+# %%
+new = np.array([[20000, 45]])
+
+svc.predict(new)
