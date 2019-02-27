@@ -10,6 +10,10 @@ numpy = "*"
 pandas = "*"
 scipy = "*"
 sklearn = "*"
+tensorflow = "*"
+pydot = "*"
+graphviz = "*"
+pydotplus = "*"
 
 [dev-packages]
 "autopep8" = "*"
